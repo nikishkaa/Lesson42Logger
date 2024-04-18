@@ -7,6 +7,8 @@ import org.apache.log4j.Logger;
 import java.util.Scanner;
 
 public class Main {
+//    Logger demoConsoleLogger = Logger.getRootLogger();
+//    demoConsoleLogger.setD
     private static final Logger LOGGER;
 
     static {
